@@ -1,0 +1,33 @@
+<resources>
+    <!-- App title -->
+    <string name="app_name">Арт-пространство</string>
+
+    <!-- Button texts -->
+    <string name="previous_button">Предыдущий</string>
+    <string name="next_button">Следующий</string>
+
+    <!-- Artwork 1 -->
+    <string name="artwork1_title">Звездная ночь</string>
+    <string name="artwork1_artist">Винсент Ван Гог</string>
+    <string name="artwork1_year">1889</string>
+
+    <!-- Artwork 2 -->
+    <string name="artwork2_title">Мона Лиза</string>
+    <string name="artwork2_artist">Леонардо да Винчи</string>
+    <string name="artwork2_year">1503-1506</string>
+
+    <!-- Artwork 3 -->
+    <string name="artwork3_title">Крик</string>
+    <string name="artwork3_artist">Эдвард Мунк</string>
+    <string name="artwork3_year">1893</string>
+
+    <!-- Artwork 4 -->
+    <string name="artwork4_title">Девушка с жемчужной сережкой</string>
+    <string name="artwork4_artist">Ян Вермеер</string>
+    <string name="artwork4_year">1665</string>
+
+    <!-- Artwork 5 -->
+    <string name="artwork5_title">Постоянство памяти</string>
+    <string name="artwork5_artist">Сальвадор Дали</string>
+    <string name="artwork5_year">1931</string>
+</resources>
